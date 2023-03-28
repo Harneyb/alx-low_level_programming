@@ -1,1 +1,1 @@
-pointer to c
+pointer array strings
